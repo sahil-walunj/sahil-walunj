@@ -29,11 +29,3 @@
 </div>
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sahil-walunj/sahil-walunj/output/snake.svg" alt="Snake animation" />
-
-###
