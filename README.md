@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SAHIL and I'm a Computer Science Student, from IIT GOA</h2>
+<h2 align="left">Hi! I am SAHIL. </h2>
 
 
 
